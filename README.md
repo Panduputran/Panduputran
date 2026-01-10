@@ -1,4 +1,4 @@
-# 💫 Panduputran
+# 🌐 Panduputran
 bonjourr 👋<br>i’m pandu putra.<br><br>i enjoy exploring web development, game development, and AI 🤖🎮🌐<br>i like building things, experimenting, breaking stuff, then fixing it again.<br><br>still learning, still growing, and trying to stay consistent.<br>curious about new ideas and always down to learn something new 🚀
 
 
@@ -12,13 +12,5 @@ bonjourr 👋<br>i’m pandu putra.<br><br>i enjoy exploring web development, ga
 ![](https://nirzak-streak-stats.vercel.app/?user=Panduputran&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Panduputran&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Panduputran&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Panduputran&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Panduputran&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
