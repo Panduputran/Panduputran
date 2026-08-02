@@ -1,5 +1,7 @@
 import os
+import re
 from pathlib import Path
+
 import requests
 
 USERNAME = os.getenv("USER_NAME", "Panduputran")
@@ -8,54 +10,75 @@ TOKEN = os.getenv("ACCESS_TOKEN")
 QUERY = """
 query($login: String!) {
   user(login: $login) {
-    followers { totalCount }
+    followers {
+      totalCount
+    }
     repositories(first: 100, ownerAffiliations: OWNER, privacy: PUBLIC) {
       totalCount
-      nodes { stargazerCount }
+      nodes {
+        stargazerCount
+      }
     }
     contributionsCollection {
-      contributionCalendar { totalContributions }
+      contributionCalendar {
+        totalContributions
+      }
     }
   }
 }
 """
 
-def main():
+
+def github_stats():
     if not TOKEN:
         raise RuntimeError("ACCESS_TOKEN is missing")
 
     response = requests.post(
         "https://api.github.com/graphql",
-        json={"query": QUERY, "variables": {"login": USERNAME}},
+        json={
+            "query": QUERY,
+            "variables": {"login": USERNAME},
+        },
         headers={"Authorization": f"Bearer {TOKEN}"},
         timeout=30,
     )
     response.raise_for_status()
-    user = response.json()["data"]["user"]
 
-    stats = {
-        "repo_data": user["repositories"]["totalCount"],
-        "star_data": sum(r["stargazerCount"] for r in user["repositories"]["nodes"]),
-        "follower_data": user["followers"]["totalCount"],
-        "contrib_data": user["contributionsCollection"]["contributionCalendar"]["totalContributions"],
+    payload = response.json()
+
+    if "errors" in payload:
+        raise RuntimeError(payload["errors"])
+
+    user = payload["data"]["user"]
+
+    return {
+        "followers": user["followers"]["totalCount"],
+        "repositories": user["repositories"]["totalCount"],
+        "stars": sum(
+            repo["stargazerCount"]
+            for repo in user["repositories"]["nodes"]
+        ),
+        "contributions": (
+            user["contributionsCollection"]
+            ["contributionCalendar"]
+            ["totalContributions"]
+        ),
     }
 
-    for filename in ("profile-dark.svg", "profile-light.svg"):
-        path = Path(filename)
-        text = path.read_text(encoding="utf-8")
 
-        for element_id, value in stats.items():
-            import re
-            text = re.sub(
-                rf'(<tspan[^>]*id="{element_id}"[^>]*>).*?(</tspan>)',
-                rf'\1{value:,}\2',
-                text,
-                count=1,
-            )
+def main():
+    # The current profile design is intentionally static.
+    # This script is kept as the update entry point for future dynamic fields.
+    stats = github_stats()
 
-        path.write_text(text, encoding="utf-8")
+    print("GitHub statistics:")
+    for name, value in stats.items():
+        print(f"  {name}: {value:,}")
 
-    print("Updated:", stats)
+    # No SVG replacement is performed yet because the new profile
+    # intentionally does not display GitHub Stats.
+    print("Profile SVGs remain unchanged.")
+
 
 if __name__ == "__main__":
     main()
