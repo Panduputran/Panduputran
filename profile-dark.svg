@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
      font-family="ConsolasFallback,Consolas,monospace"
-     width="1150px" height="510px" font-size="14px">
+     width="1200px" height="490px" font-size="14px">
 <style>
 @font-face {
   src: local('Consolas'), local('Consolas Bold');
@@ -15,11 +15,11 @@
 .cc { fill: #616e7f; }
 text, tspan { white-space: pre; }
 </style>
-<rect width="1150px" height="510px" fill="#161b22" rx="15"/>
-<rect x="8" y="8" width="1134" height="494"
+<rect width="1200px" height="560px" fill="#0D1117" rx="15"/>
+<rect x="8" y="8" width="1184px" height="544px"
       fill="none" stroke="#30363d" rx="12"/>
 
-<text x="25" y="38" fill="#c9d1d9" font-size="12.5px">
+<text x="30" y="40" fill="#c9d1d9" font-size="14.5px">
 <tspan x="25" y="38.0">                .::                          </tspan>
 <tspan x="25" y="51.0">           :*#+==++*##+%%%%@@%*.             </tspan>
 <tspan x="25" y="64.0">        .#%%#++*#%%%@%%%%%%%%%%%#*:          </tspan>
@@ -55,7 +55,7 @@ text, tspan { white-space: pre; }
 <tspan x="25" y="454.0">        .@@@@@@%%%%%%#%%%%%######*****+++++==</tspan>
 </text>
 
-<text x="520" y="36" fill="#c9d1d9" font-size="14px">
+<text x="500" y="36" fill="#c9d1d9" font-size="17px">
 <tspan x="520" y="36" fill="#c9d1d9">pandu@putra ~ $ profile</tspan>
 <tspan x="520" y="52" class="cc">────────────────────────────────────────────────────────</tspan>
 <tspan x="520" y="76" class="key">Focus</tspan><tspan class="cc">...................... </tspan><tspan class="value">Web Development</tspan>
