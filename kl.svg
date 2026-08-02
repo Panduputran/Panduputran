@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1000"
+    height="540"
+    viewBox="0 0 1000 540">
+
+    <style>
+
+        .bg{
+            fill:#0D1117;
+        }
+
+        .ascii{
+            fill:#C9D1D9;
+            font-family:"JetBrains Mono","Consolas",monospace;
+            font-size:8.8px;
+            white-space:pre;
+        }
+
+        .title{
+            fill:#F0F6FC;
+            font-family:"JetBrains Mono",monospace;
+            font-size:28px;
+            font-weight:700;
+        }
+
+        .section{
+            fill:#58A6FF;
+            font-family:"JetBrains Mono",monospace;
+            font-size:13px;
+            font-weight:bold;
+        }
+
+        .label{
+            fill:#8B949E;
+            font-family:"JetBrains Mono",monospace;
+            font-size:13px;
+        }
+
+        .value{
+            fill:#F0F6FC;
+            font-family:"JetBrains Mono",monospace;
+            font-size:13px;
+        }
+
+    </style>
+
+    <rect
+        class="bg"
+        width="100%"
+        height="100%"/>
+
+    <!-- ASCII -->
+
+    <text
+        id="ascii"
+        class="ascii"
+        x="25"
+        y="25"
+        xml:space="preserve">{{ASCII}}</text>
+
+    <!-- NAME -->
+
+    <text
+        id="name"
+        class="title"
+        x="500"
+        y="55">Pandu Putra</text>
+
+    <text
+        id="subtitle"
+        class="section"
+        x="500"
+        y="82">
+        Software Engineer • AI • Data
+    </text>
+
+    <!-- Divider -->
+
+    <line
+        x1="500"
+        y1="100"
+        x2="940"
+        y2="100"
+        stroke="#30363D"/>
+
+    <!-- Focus -->
+
+    <text class="label" x="500" y="140">
+Focus.....................
+    </text>
+
+    <text id="focus1" class="value" x="710" y="140">
+Web Development
+    </text>
+
+    <text id="focus2" class="value" x="710" y="160">
+Artificial Intelligence
+    </text>
+
+    <text id="focus3" class="value" x="710" y="180">
+Machine Learning
+    </text>
+
+    <text id="focus4" class="value" x="710" y="200">
+Data Engineering
+    </text>
+
+    <!-- Specialization -->
+
+    <text class="label" x="500" y="245">
+Specialization............
+    </text>
+
+    <text id="spec1" class="value" x="710" y="245">
+Full Stack Development
+    </text>
+
+    <text id="spec2" class="value" x="710" y="265">
+Backend Engineering
+    </text>
+
+    <text id="spec3" class="value" x="710" y="285">
+ETL Pipelines
+    </text>
+
+    <text id="spec4" class="value" x="710" y="305">
+Automation
+    </text>
+
+    <!-- Current -->
+
+    <text class="label" x="500" y="350">
+Currently.................
+    </text>
+
+    <text id="current1" class="value" x="710" y="350">
+Building scalable web applications
+    </text>
+
+    <text id="current2" class="value" x="710" y="370">
+Learning AI Engineering
+    </text>
+
+    <!-- Links -->
+
+    <text class="label" x="500" y="430">
+Portfolio.................
+    </text>
+
+    <text id="portfolio" class="value" x="710" y="430">
+panduputra.vercel.app
+    </text>
+
+    <text class="label" x="500" y="455">
+GitHub....................
+    </text>
+
+    <text id="github" class="value" x="710" y="455">
+github.com/Panduputran
+    </text>
+
+    <text class="label" x="500" y="480">
+LinkedIn..................
+    </text>
+
+    <text id="linkedin" class="value" x="710" y="480">
+linkedin.com/in/panduputran
+    </text>
+
+</svg>

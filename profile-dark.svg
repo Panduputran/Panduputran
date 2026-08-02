@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1200px" height="530px" font-size="16px">
+<style>@font-face {src: local('Consolas'), local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;} .key {fill:#ffa657;} .value {fill:#a5d6ff;} .cc {fill:#616e7f;} text,tspan {white-space:pre;}</style>
+<rect width="1200px" height="530px" fill="#161b22" rx="15"/><rect x="8" y="8" width="1184" height="514" fill="none" stroke="#30363d" rx="12"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">  <tspan x="15" y="30">,,,,,,,,,,,,,,.............................  .    </tspan>
+  <tspan x="15" y="50">,,,,,,,,,,,,..........................            </tspan>
+  <tspan x="15" y="70">,,,,,,,,,,,...........#%#/..,.....                </tspan>
+  <tspan x="15" y="90">,,,,,,,...........@@@&amp;@@@@&amp;&amp;&amp;&amp;&amp;%%&amp;.               </tspan>
+  <tspan x="15" y="110">,,,,,,...........@@@@@@@@@@%@&amp;&amp;%&amp;&amp;&amp;&amp;              </tspan>
+  <tspan x="15" y="130">,,,,,...........@@&amp;%######%&amp;@@@@@%&amp;%%             </tspan>
+  <tspan x="15" y="150">,,,,.............%%((///*...,,*/&amp;@@@@             </tspan>
+  <tspan x="15" y="170">,,,............,#%#@%%(&amp;%@&amp;(*,,,%@@&amp;              </tspan>
+  <tspan x="15" y="190">,,,..........,,,(###@*#@%%(*...,(/(/              </tspan>
+  <tspan x="15" y="210">,.,......,,,,***/(((//**(//**,,,*/,               </tspan>
+  <tspan x="15" y="230">,,....,,,********/(#(#//////***#%                 </tspan>
+  <tspan x="15" y="250">,,,,,,,,**/////***/(((//////((//                  </tspan>
+  <tspan x="15" y="270">,,,,,****//////****/////((##/*####                </tspan>
+  <tspan x="15" y="290">,,,,****////////***,,/((#%&amp;&amp;&amp;&amp;##%%%               </tspan>
+  <tspan x="15" y="310">,,*******///////****@@&amp;@&amp;&amp;&amp;@&amp;&amp;&amp;&amp;%%%%%             </tspan>
+  <tspan x="15" y="330">,***********///****#@@@@&amp;&amp;&amp;@&amp;&amp;&amp;&amp;&amp;&amp;%%%#%#.         </tspan>
+  <tspan x="15" y="350">*************//**@@@@@@@@@@@@@@&amp;&amp;%%%%%##%##. .    </tspan>
+  <tspan x="15" y="370">*************///@&amp;@@&amp;@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%&amp;&amp;&amp;&amp;&amp;&amp;&amp;.....</tspan>
+  <tspan x="15" y="390">*************//&amp;&amp;@@@@@@@@@@&amp;@&amp;&amp;&amp;@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@&amp;&amp;....</tspan>
+  <tspan x="15" y="410">************///&amp;@@@@&amp;@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;@&amp;%&amp;@&amp;...</tspan>
+  <tspan x="15" y="430">***********///&amp;@@@@@&amp;@@@@@@@@@@@@@@@@@&amp;&amp;&amp;&amp;&amp;&amp;&amp;%%#..</tspan>
+  <tspan x="15" y="450">**********////@@@@@&amp;@@@@@@@@@@@@@@@@@@@@@&amp;&amp;&amp;@@&amp;%..</tspan></text>
+<text x="610" y="30" fill="#c9d1d9"><tspan x="610" y="30">pandu@putra</tspan> -———————————————————————————————————————————-—-
+  <tspan x="610" y="30" class="key">Focus</tspan><tspan class="cc">........................ </tspan><tspan class="value">Web Development</tspan>
+  <tspan x="610" y="50" class="cc">.............................. </tspan><tspan class="value">Artificial Intelligence</tspan>
+  <tspan x="610" y="70" class="cc">.............................. </tspan><tspan class="value">Machine Learning</tspan>
+  <tspan x="610" y="90" class="cc">.............................. </tspan><tspan class="value">Data Engineering</tspan>
+  <tspan x="610" y="124" class="key">Specialization</tspan><tspan class="cc">........................ </tspan><tspan class="value">Full Stack Development</tspan>
+  <tspan x="610" y="144" class="cc">.............................. </tspan><tspan class="value">ETL Pipelines</tspan>
+  <tspan x="610" y="164" class="cc">.............................. </tspan><tspan class="value">Backend Engineering</tspan>
+  <tspan x="610" y="184" class="cc">.............................. </tspan><tspan class="value">Process Automation</tspan>
+  <tspan x="610" y="218" class="key">Currently</tspan><tspan class="cc">........................ </tspan><tspan class="value">Building scalable web applications</tspan>
+  <tspan x="610" y="238" class="cc">.............................. </tspan><tspan class="value">Exploring AI Engineering</tspan>
+  <tspan x="610" y="272" class="key">Working With</tspan><tspan class="cc">........................ </tspan><tspan class="value">Laravel, React, Python, FastAPI</tspan>
+  <tspan x="610" y="292" class="cc">.............................. </tspan><tspan class="value">PostgreSQL, Docker, Git</tspan>
+  <tspan x="610" y="326" class="key">Open To</tspan><tspan class="cc">........................ </tspan><tspan class="value">Internship</tspan>
+  <tspan x="610" y="346" class="cc">.............................. </tspan><tspan class="value">Open Source Collaboration</tspan>
+  <tspan x="610" y="380" class="key">Location</tspan><tspan class="cc">........................ </tspan><tspan class="value">Bogor, Indonesia</tspan>
+  <tspan x="610" y="414" class="key">Portfolio</tspan><tspan class="cc">........................ </tspan><tspan class="value">panduputra.vercel.app</tspan>
+  <tspan x="610" y="434" class="key">GitHub</tspan><tspan class="cc">........................ </tspan><tspan class="value">github.com/Panduputran</tspan>
+  <tspan x="610" y="454" class="key">LinkedIn</tspan><tspan class="cc">........................ </tspan><tspan class="value">linkedin.com/in/panduputran</tspan></text>
+</svg>
