@@ -15,66 +15,73 @@
 .cc { fill: #616e7f; }
 text, tspan { white-space: pre; }
 </style>
+
 <rect width="1200px" height="560px" fill="#0D1117" rx="15"/>
 <rect x="8" y="8" width="1184px" height="544px"
       fill="none" stroke="#30363d" rx="12"/>
 
-<text x="30" y="40" fill="#c9d1d9" font-size="14.5px">
-<tspan x="25" y="38.0">                .::                          </tspan>
-<tspan x="25" y="51.0">           :*#+==++*##+%%%%@@%*.             </tspan>
-<tspan x="25" y="64.0">        .#%%#++*#%%%@%%%%%%%%%%%#*:          </tspan>
-<tspan x="25" y="77.0">       #@@@@##%@@@@#%%%#%*##***#*+=+=        </tspan>
-<tspan x="25" y="90.0">     .%@@@@%##%@@@@%##**+*=-+==-======.      </tspan>
-<tspan x="25" y="103.0">     #@@@@@%#*%@@@@@%%%#+=#+++##+***#*#+.    </tspan>
-<tspan x="25" y="116.0">    #@@@@@@@%##%@@@@@%%*##%%@%%@%%#%*#%%%.   </tspan>
-<tspan x="25" y="129.0">   #@@@@@%#*++***###%%%#*#%@@@%%@%%%*****#   </tspan>
-<tspan x="25" y="142.0">   #@@@#*+======--===+++*#%@@@@@%@%*+***++=  </tspan>
-<tspan x="25" y="155.0">    *%+===-------:::::::.::=*#%@@%%@%##*#%@: </tspan>
-<tspan x="25" y="168.0">    :=-=-:::::::.......    ....:=*@@@@@@@@%  </tspan>
-<tspan x="25" y="181.0">    .==+*+=::::.....       .....:=%@@@@%@%=  </tspan>
-<tspan x="25" y="194.0">  .++==+*#+=-:::--===-:..    ....-+#@%###=   </tspan>
-<tspan x="25" y="207.0">  =+==*+#@%#*=-=*#####*+-..   ...-*#%@##+    </tspan>
-<tspan x="25" y="220.0">  ::++++*###%+-#***###%%#%+:....:+%%%%%=     </tspan>
-<tspan x="25" y="233.0">    -=++***##::#%#*##++-.:   .   .:. .:-     </tspan>
-<tspan x="25" y="246.0">   :======*+.  =#**++=:.:        ..::::-:    </tspan>
-<tspan x="25" y="259.0">    ::-----.   .-:===---:       .. :-:.-.    </tspan>
-<tspan x="25" y="272.0">    .:::--::..:....::.......  ......::.      </tspan>
-<tspan x="25" y="285.0">    ..::----::--................    ..       </tspan>
-<tspan x="25" y="298.0">    ..::------..................:.           </tspan>
-<tspan x="25" y="311.0">     .::-+==---:::.............:=:           </tspan>
-<tspan x="25" y="324.0">     ..::--::...-+::...........::            </tspan>
-<tspan x="25" y="337.0">      ..:::--::::.:..:.:.::::....            </tspan>
-<tspan x="25" y="350.0">       .:::::::....::::::--:..    :          </tspan>
-<tspan x="25" y="363.0">        .::.:......:::--==-..    -=-         </tspan>
-<tspan x="25" y="376.0">          .......::-------:..-======.        </tspan>
-<tspan x="25" y="389.0">             ::::::----===**++======+=       </tspan>
-<tspan x="25" y="402.0">             .::::--==*#%##**+====+++++      </tspan>
-<tspan x="25" y="415.0">            :#::--==*%%%######*+*****++=     </tspan>
-<tspan x="25" y="428.0">           *@@*==*%%%#%%#########****+++=    </tspan>
-<tspan x="25" y="441.0">          %@@@%#%%%%%%%%%%%%#####****+*+++-  </tspan>
-<tspan x="25" y="454.0">        .@@@@@@%%%%%%#%%%%%######*****+++++==</tspan>
+<text x="50" y="40" fill="#c9d1d9" font-size="12px">
+<tspan x="45" y="38.0">                .::                          </tspan>
+<tspan x="45" y="51.0">           :*#+==++*##+%%%%@@%*.             </tspan>
+<tspan x="45" y="64.0">        .#%%#++*#%%%@%%%%%%%%%%%#*:          </tspan>
+<tspan x="45" y="77.0">       #@@@@##%@@@@#%%%#%*##***#*+=+=        </tspan>
+<tspan x="45" y="90.0">     .%@@@@%##%@@@@%##**+*=-+==-======.      </tspan>
+<tspan x="45" y="103.0">     #@@@@@%#*%@@@@@%%%#+=#+++##+***#*#+.    </tspan>
+<tspan x="45" y="116.0">    #@@@@@@@%##%@@@@@%%*##%%@%%@%%#%*#%%%.   </tspan>
+<tspan x="45" y="129.0">   #@@@@@%#*++***###%%%#*#%@@@%%@%%%*****#   </tspan>
+<tspan x="45" y="142.0">   #@@@#*+======--===+++*#%@@@@@%@%*+***++=  </tspan>
+<tspan x="45" y="155.0">    *%+===-------:::::::.::=*#%@@%%@%##*#%@: </tspan>
+<tspan x="45" y="168.0">    :=-=-:::::::.......    ....:=*@@@@@@@@%  </tspan>
+<tspan x="45" y="181.0">    .==+*+=::::.....       .....:=%@@@@%@%=  </tspan>
+<tspan x="45" y="194.0">  .++==+*#+=-:::--===-:..    ....-+#@%###=   </tspan>
+<tspan x="45" y="207.0">  =+==*+#@%#*=-=*#####*+-..   ...-*#%@##+    </tspan>
+<tspan x="45" y="220.0">  ::++++*###%+-#***###%%#%+:....:+%%%%%=     </tspan>
+<tspan x="45" y="233.0">    -=++***##::#%#*##++-.:   .   .:. .:-     </tspan>
+<tspan x="45" y="246.0">   :======*+.  =#**++=:.:        ..::::-:    </tspan>
+<tspan x="45" y="259.0">    ::-----.   .-:===---:       .. :-:.-.    </tspan>
+<tspan x="45" y="272.0">    .:::--::..:....::.......  ......::.      </tspan>
+<tspan x="45" y="285.0">    ..::----::--................    ..       </tspan>
+<tspan x="45" y="298.0">    ..::------..................:.           </tspan>
+<tspan x="45" y="311.0">     .::-+==---:::.............:=:           </tspan>
+<tspan x="45" y="324.0">     ..::--::...-+::...........::            </tspan>
+<tspan x="45" y="337.0">      ..:::--::::.:..:.:.::::....            </tspan>
+<tspan x="45" y="350.0">       .:::::::....::::::--:..    :          </tspan>
+<tspan x="45" y="363.0">        .::.:......:::--==-..    -=-         </tspan>
+<tspan x="45" y="376.0">          .......::-------:..-======.        </tspan>
+<tspan x="45" y="389.0">             ::::::----===**++======+=       </tspan>
+<tspan x="45" y="402.0">             .::::--==*#%##**+====+++++      </tspan>
+<tspan x="45" y="415.0">            :#::--==*%%%######*+*****++=     </tspan>
+<tspan x="45" y="428.0">           *@@*==*%%%#%%#########****+++=    </tspan>
+<tspan x="45" y="441.0">          %@@@%#%%%%%%%%%%%%#####****+*+++-  </tspan>
+<tspan x="45" y="454.0">        .@@@@@@%%%%%%#%%%%%######*****+++++==</tspan>
 </text>
 
 <text x="500" y="36" fill="#c9d1d9" font-size="17px">
 <tspan x="520" y="36" fill="#c9d1d9">pandu@putra ~ $ profile</tspan>
 <tspan x="520" y="52" class="cc">────────────────────────────────────────────────────────</tspan>
+
 <tspan x="520" y="76" class="key">Focus</tspan><tspan class="cc">...................... </tspan><tspan class="value">Web Development</tspan>
 <tspan x="520" y="92" class="cc">.............................. </tspan><tspan class="value">Artificial Intelligence</tspan>
 <tspan x="520" y="108" class="cc">.............................. </tspan><tspan class="value">Machine Learning</tspan>
 <tspan x="520" y="124" class="cc">.............................. </tspan><tspan class="value">Data Engineering</tspan>
+
 <tspan x="520" y="148" class="key">Specialization</tspan><tspan class="cc">............. </tspan><tspan class="value">Full Stack Development</tspan>
 <tspan x="520" y="164" class="cc">.............................. </tspan><tspan class="value">ETL Pipelines</tspan>
 <tspan x="520" y="180" class="cc">.............................. </tspan><tspan class="value">Backend Engineering</tspan>
 <tspan x="520" y="196" class="cc">.............................. </tspan><tspan class="value">Process Automation</tspan>
+
 <tspan x="520" y="220" class="key">Currently</tspan><tspan class="cc">.................. </tspan><tspan class="value">Building scalable web applications</tspan>
 <tspan x="520" y="236" class="cc">.............................. </tspan><tspan class="value">Exploring AI Engineering</tspan>
+
 <tspan x="520" y="260" class="key">Interests</tspan><tspan class="cc">.................. </tspan><tspan class="value">AI Engineering</tspan>
 <tspan x="520" y="276" class="cc">.............................. </tspan><tspan class="value">Data Engineering</tspan>
 <tspan x="520" y="292" class="cc">.............................. </tspan><tspan class="value">Developer Tools</tspan>
 <tspan x="520" y="308" class="cc">.............................. </tspan><tspan class="value">Open Source</tspan>
 <tspan x="520" y="324" class="cc">.............................. </tspan><tspan class="value">Game Development</tspan>
+
 <tspan x="520" y="348" class="key">Currently Building</tspan><tspan class="cc">......... </tspan><tspan class="value">ETL Processing Platform</tspan>
 <tspan x="520" y="364" class="cc">.............................. </tspan><tspan class="value">AI-assisted Data Pipeline</tspan>
+
 <tspan x="520" y="388" class="key">Location</tspan><tspan class="cc">................... </tspan><tspan class="value">Bogor, Indonesia</tspan>
 <tspan x="520" y="412" class="key">Portfolio</tspan><tspan class="cc">.................. </tspan><tspan class="value">panduputra.vercel.app</tspan>
 <tspan x="520" y="428" class="key">GitHub</tspan><tspan class="cc">..................... </tspan><tspan class="value">github.com/Panduputran</tspan>
