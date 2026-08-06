@@ -80,7 +80,7 @@ text, tspan { white-space: pre; }
 <tspan x="520" y="324" class="cc">.............................. </tspan><tspan class="value">Game Development</tspan>
 
 <tspan x="520" y="348" class="key">Currently Building</tspan><tspan class="cc">......... </tspan><tspan class="value">ETL Processing Platform</tspan>
-<tspan x="520" y="364" class="cc">.............................. </tspan><tspan class="value">AI-assisted Data Pipeline</tspan>
+<tspan x="520" y="364" class="cc">.............................. </tspan><tspan class="value">Optical Character Recognition</tspan>
 
 <tspan x="520" y="388" class="key">Location</tspan><tspan class="cc">................... </tspan><tspan class="value">Bogor, Indonesia</tspan>
 <tspan x="520" y="412" class="key">Portfolio</tspan><tspan class="cc">.................. </tspan><tspan class="value">panduputra.vercel.app</tspan>
