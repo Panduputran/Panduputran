@@ -47,7 +47,7 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupBuildtrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+        <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
       </a>
     </td>
     <td width="25%">
