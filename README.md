@@ -76,6 +76,11 @@
         <img src="./badges/juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
       </a>
     </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/5b442afe-30bb-441f-a900-e78910db2116/blob" width="85" alt="Credly Verified Badge" style="display: block;">
+      </a>
+    </td>
   </tr>
 </table>
 <h3 align="left">Google Developer Program</h3>
