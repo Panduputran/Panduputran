@@ -59,16 +59,20 @@
 <!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
-<p align="left">
-  <!-- Cisco Introduction to Cybersecurity -->
-  <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="115" alt="Introduction to Cybersecurity" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-  <!-- AI for Everyone - User -->
-  <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" width="115" alt="AI for Everyone - User" style="vertical-align: middle; margin-right: 10px;" />
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="85" alt="Introduction to Cybersecurity" style="display: block;" />
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" width="85" alt="AI for Everyone - User" style="display: block;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 1. Terminal / ASCII Profile Card -->
 <picture>
