@@ -59,7 +59,7 @@
 <!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
