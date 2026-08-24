@@ -45,7 +45,11 @@
     </td>
     <td width="25%">
       <a href="#">
+<<<<<<< HEAD
         <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
+=======
+        <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 6px;">
+>>>>>>> 998a6a005735e87e5bba315f893510822d3a2e1a
       </a>
     </td>
     <td width="25%">
@@ -68,5 +72,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
+<<<<<<< HEAD
   <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg" width="100%" style="margin-top: 10px;">
 </picture>
+=======
+  <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg" width="100%">
+</picture>
+>>>>>>> 998a6a005735e87e5bba315f893510822d3a2e1a
