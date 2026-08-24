@@ -3,7 +3,6 @@
   <img src="./banner.png" alt="Pandu Putra Banner" width="100%">
 </a>
 
-
 <br><br>
 
 <!-- Featured Projects Section -->
@@ -61,19 +60,16 @@
 
 <br>
 
-<!-- Activity & Stats Section (Clean & Dark Minimalist) -->
+<!-- Activity & Contribution Stats -->
 <h3 align="left">Engineering Activity</h3>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panduputran&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%">
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panduputran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=panduputran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panduputran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="165" alt="Top Languages" />
+</p>
+
+<br>
 
 <!-- Terminal / ASCII Profile Card -->
 <picture>
