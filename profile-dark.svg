@@ -11,10 +11,10 @@
   size-adjust: 109%;
 }
 .key { fill: #39d353; font-weight: bold; }
-.value { fill: #7ee787; }
+.value { fill: #f6f8f7; }
 .cc { fill: #238636; }
-.ascii { fill: #39d353; }
-.title { fill: #56d364; }
+.ascii { fill: #ededed; }
+.title { fill: #ffffff; }
 text, tspan { white-space: pre; }
 </style>
 
