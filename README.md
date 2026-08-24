@@ -1,10 +1,10 @@
 <!-- Banner Section -->
 <a href="https://linkedin.com/in/panduputran" target="_blank">
-  <img src="./banner.png" alt="Pandu Putra Banner" width="100%" style="display:block; margin-bottom: 8px;">
+  <img src="./banner.png" alt="Pandu Putra Banner" width="100%" style="display:block;">
 </a>
 
 <!-- Featured Projects Section -->
-<h3 align="left" style="margin-top: 10px; margin-bottom: 8px;">Featured Projects</h3>
+<h3 align="left">Featured Projects</h3>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="2">
   <!-- Row 1: SMK, QR, Grafana, BMLP -->
@@ -45,7 +45,7 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
+        <img src="./MockupBuildtrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
       </a>
     </td>
     <td width="25%">
@@ -56,17 +56,18 @@
   </tr>
 </table>
 
-<!-- Engineering Activity Section -->
-<h3 align="left" style="margin-top: 14px; margin-bottom: 8px;">Engineering Activity</h3>
+---
 
-<p align="center" style="margin: 0;">
-  <img src="https://streak-stats.demolab.com?user=Panduputran&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panduputran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" height="150" alt="Top Languages" />
+<!-- GitHub Streak Section (Gaya Affaan Mustafa) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Panduputran&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for Panduputran" height="165" />
 </p>
+
+---
 
 <!-- Terminal / ASCII Profile Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
-  <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg" width="100%" style="margin-top: 10px;">
+  <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg" width="100%">
 </picture>
