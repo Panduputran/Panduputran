@@ -58,6 +58,23 @@
 
 ---
 
+<!-- Certifications & Badges Section -->
+<h3 align="left">Certifications & Badges</h3>
+
+<p align="left">
+  <!-- Cisco Certified Badge -->
+  <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
+    <img src="https://images.credly.com/images/3074f7d2-7c87-43eb-8d45-5d9ea4b47c0c/Networking_Basics.png" width="110" alt="Cisco Networking Basics" />
+  </a>
+  &nbsp;
+  <!-- Template Badge Tambahan Berikutnya (Tinggal gandakan saat ada badge baru) -->
+  <!-- 
+  <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
+    <img src="IMAGE_URL_BADGE_BARU" width="110" alt="Badge Name" />
+  </a> 
+  -->
+</p>
+
 <!-- 1. Terminal / ASCII Profile Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg?v=2">
