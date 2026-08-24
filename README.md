@@ -57,6 +57,7 @@
 </table>
 
 <!-- Certifications & Badges Section -->
+<!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -73,12 +74,22 @@
     </td>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="./badges/juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
+        <img src="./juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
-      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/5b442afe-30bb-441f-a900-e78910db2116/blob" width="85" alt="Credly Verified Badge" style="display: block;">
+      <a href="https://www.credly.com/badges/7cbfee23-735b-4901-be92-6f6a9ee28a9c/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/5b442afe-30bb-441f-a900-e78910db2116/blob" width="85" alt="Google Cloud Skills" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/547c4f72-f4e5-4ab1-bddc-325204e2709b/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/d41246ef-1f8e-4b3a-b93d-034e7c66e309/image.png" width="85" alt="Perform Data Analytics" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/22e9e17d-02c9-4d68-8dbc-e0ec968f9699/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/6d858d84-6987-48c8-9608-f5abb9b74492/blob" width="85" alt="Multimodal Search" style="display: block;">
       </a>
     </td>
   </tr>
