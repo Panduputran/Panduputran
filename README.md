@@ -45,7 +45,7 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
+        <img src="./MockupBuildtrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
       </a>
     </td>
     <td width="25%">
@@ -58,8 +58,13 @@
 
 ---
 
+<!-- Engineering Activity (Streak Stats Hijau & Activity Graph) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
