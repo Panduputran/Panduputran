@@ -2,38 +2,53 @@
   <img src="./banner.png" alt="LinkedIn Banner" width="100%">
 </a>
 <br>
+
+<!-- Section Projects -->
 <h2 align="center"> Featured Projects </h2>
 
 <table border="0">
+  <!-- Baris 1: SMK, QR, Stackup, Buildtrack -->
   <tr>
-    <td width="33%">
-      <a href="#">
-        <img src="./MockupBuildTrack.png" alt="Build Track" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="#">
-        <img src="./MockupGrafana.png" alt="Grafana" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
-      </a>
-    </td>
-    <td width="33%">
-      <a href="#">
-        <img src="./MockupPortofolio.png" alt="Portofolio" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
+    <td width="25%">
       <a href="#">
         <img src="./MockupSMK.jpg" alt="SMK Project" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
+      <a href="#">
+        <img src="./MockupQR.png" alt="QR Attendance" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+      </a>
+    </td>
+    <td width="25%">
       <a href="#">
         <img src="./MockupStackup.jpg" alt="Stackup" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
-    <td width="33%">
+    <td width="25%">
+      <a href="#">
+        <img src="./MockupBuildtrack.png" alt="Buildtrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+      </a>
+    </td>
+  </tr>
+
+  <!-- Baris 2: Portofolio, BMLP, Grafana, Warghe -->
+  <tr>
+    <td width="25%">
+      <a href="#">
+        <img src="./MockupPortofolio.png" alt="Portofolio" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+      </a>
+    </td>
+    <td width="25%">
+      <a href="#">
+        <img src="./BMLP.png" alt="BMLP" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+      </a>
+    </td>
+    <td width="25%">
+      <a href="#">
+        <img src="./MockupGrafana.png" alt="Grafana" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+      </a>
+    </td>
+    <td width="25%">
       <a href="#">
         <img src="./MockupWarghe.jpg" alt="Warghe" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
