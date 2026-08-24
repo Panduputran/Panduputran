@@ -21,12 +21,12 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupStackup.jpg" alt="Stackup" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+        <img src="./MockupGrafana.png" alt="Stackup" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupBuildtrack.png" alt="Buildtrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+        <img src="./BMLP.png" alt="Buildtrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
   </tr>
@@ -40,12 +40,12 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./BMLP.png" alt="BMLP" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+        <img src="./MockupStackup.png" alt="BMLP" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupGrafana.png" alt="Grafana" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
+        <img src="./MockupBuildtrack.png" alt="Grafana" width="100%" style="aspect-ratio: 16/9; object-fit: cover;">
       </a>
     </td>
     <td width="25%">
