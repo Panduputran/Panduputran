@@ -64,7 +64,7 @@
 <p align="left">
   <!-- Cisco Certified Badge -->
   <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
-    <img src="https://images.credly.com/images/3074f7d2-7c87-43eb-8d45-5d9ea4b47c0c/Networking_Basics.png" width="110" alt="Cisco Networking Basics" />
+    <img src="./badges/introduction-to-cybersecurity.png" width="110" alt="Cisco Networking Basics" />
   </a>
   &nbsp;
   <!-- Template Badge Tambahan Berikutnya (Tinggal gandakan saat ada badge baru) -->
