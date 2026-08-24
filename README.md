@@ -78,32 +78,41 @@
     </td>
   </tr>
 </table>
-
 <h3 align="left">Google Developer Program</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td style="padding-right: 14px;">
-<a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
-<img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
-</a>
-</td>
-<td style="padding-right: 14px;">
-<a href="https://developers.google.com/profile/badges/community/gdg/chapter/member/gdg-bogor?u=panduputra" target="_blank">
-<img src="./badges/gdg-bogor.svg" width="85" alt="GDG Bogor Member" style="display: block;">
-</a>
-</td>
-<td style="padding-right: 14px;">
-<a href="https://developers.google.com/profile/badges/community/gear?u=panduputra" target="_blank">
-<img src="./badges/gemini-enterprise.svg" width="85" alt="Gemini Enterprise Agent Ready" style="display: block;">
-</a>
-</td>
-<td style="padding-right: 14px;">
-<a href="https://developers.google.com/profile/badges/nvidia-developer?u=panduputra" target="_blank">
-<img src="./badges/gdg-nvidia.svg" width="85" alt="NVIDIA Developer" style="display: block;">
-</a>
-</td>
-</tr>
+  <tr>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/profile/created-profile?u=panduputra" target="_blank">
+        <img src="./badges/gdg-program.svg" width="85" alt="Google Developer Program Member" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/community/gdg/chapter/member/gdg-bogor?u=panduputra" target="_blank">
+        <img src="./badges/gdg-bogor.svg" width="85" alt="GDG Bogor Member" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/community/gdg/member?u=panduputra" target="_blank">
+        <img src="./badges/gdg-member.svg" width="85" alt="Google Developer Group Member" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/community/gear?u=panduputra" target="_blank">
+        <img src="./badges/gemini-enterprise.svg" width="85" alt="Gemini Enterprise Agent Ready" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/nvidia-developer?u=panduputra" target="_blank">
+        <img src="./badges/gdg-nvidia.svg" width="85" alt="NVIDIA Developer" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
+        <img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
+      </a>
+    </td>
+  </tr>
 </table>
 ---
 
