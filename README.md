@@ -45,7 +45,7 @@
     </td>
     <td width="25%">
       <a href="#">
-        <img src="./MockupBuildtrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
+        <img src="./MockupBuildTrack.png" alt="BuildTrack" width="100%" style="aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; display: block;">
       </a>
     </td>
     <td width="25%">
@@ -58,9 +58,8 @@
 
 ---
 
-<!-- GitHub Streak Section (Gaya Affaan Mustafa) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Panduputran&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for Panduputran" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
