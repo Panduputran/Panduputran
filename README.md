@@ -58,20 +58,19 @@
 
 ---
 
-<!-- Engineering Activity (Streak Stats Hijau & Activity Graph) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-<!-- Terminal / ASCII Profile Card -->
+<!-- 1. Terminal / ASCII Profile Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg">
   <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg" width="100%">
 </picture>
+
+<!-- 2. Contribution Activity Graph -->
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- 3. Streak Stats (GitHub Green Theme) -->
+<p align="center" style="margin-top: 10px;">
+  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
+</p>
