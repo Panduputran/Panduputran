@@ -130,5 +130,5 @@
 
 <!-- 3. Streak Stats (GitHub Green Theme) -->
 <p align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
 </p>
