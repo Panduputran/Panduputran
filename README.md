@@ -57,14 +57,13 @@
 </table>
 
 ---
-
 <!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
 <p align="left">
-  <!-- Cisco Networking Basics (High-Res Asset) -->
+  <!-- Cisco Introduction to Cybersecurity -->
   <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
-    <img src="https://images.credly.com/images/3074f7d2-7c87-43eb-8d45-5d9ea4b47c0c/image.png" width="115" alt="Cisco Networking Basics" style="vertical-align: middle; margin-right: 8px;" />
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="115" alt="Introduction to Cybersecurity" style="vertical-align: middle; margin-right: 10px;" />
   </a>
 </p>
 
