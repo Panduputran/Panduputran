@@ -57,7 +57,6 @@
 </table>
 
 <!-- Certifications & Badges Section -->
-<!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -69,12 +68,12 @@
     </td>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" width="85" alt="AI for Everyone - User" style="display: block;">
+        <img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="85" alt="JavaScript Essentials" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="./juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
+        <img src="./badges/juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
