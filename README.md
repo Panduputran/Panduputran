@@ -59,20 +59,53 @@
 <!-- Certifications & Badges Section -->
 <h3 align="left">Certifications & Badges</h3>
 
-<table cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="85" alt="Introduction to Cybersecurity" style="display: block;" />
+        <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="85" alt="Introduction to Cybersecurity" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" width="85" alt="AI for Everyone - User" style="display: block;" />
+        <img src="https://images.credly.com/size/680x680/images/b1e62643-ef17-4ddc-a950-24e795cc08fe/blob" width="85" alt="AI for Everyone - User" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
+        <img src="./badges/juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
       </a>
     </td>
   </tr>
 </table>
+
+<h3 align="left">Google Developer Program</h3>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding-right: 14px;">
+<a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
+<img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
+</a>
+</td>
+<td style="padding-right: 14px;">
+<a href="https://developers.google.com/profile/badges/community/gdg/chapter/member/gdg-bogor?u=panduputra" target="_blank">
+<img src="./badges/gdg-bogor.svg" width="85" alt="GDG Bogor Member" style="display: block;">
+</a>
+</td>
+<td style="padding-right: 14px;">
+<a href="https://developers.google.com/profile/badges/community/gear?u=panduputra" target="_blank">
+<img src="./badges/gemini-enterprise.svg" width="85" alt="Gemini Enterprise Agent Ready" style="display: block;">
+</a>
+</td>
+<td style="padding-right: 14px;">
+<a href="https://developers.google.com/profile/badges/nvidia-developer?u=panduputra" target="_blank">
+<img src="./badges/gdg-nvidia.svg" width="85" alt="NVIDIA Developer" style="display: block;">
+</a>
+</td>
+</tr>
+</table>
+---
 
 <!-- 1. Terminal / ASCII Profile Card -->
 <picture>
@@ -83,10 +116,10 @@
 
 <!-- 2. Contribution Activity Graph -->
 <p align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph">
 </p>
 
 <!-- 3. Streak Stats (GitHub Green Theme) -->
 <p align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak stats" height="165">
 </p>
