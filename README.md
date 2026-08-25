@@ -57,7 +57,10 @@
 </table>
 
 <!-- Certifications & Badges Section -->
-<h3 align="left">Certifications & Badges</h3>
+<h3 align="left">
+  Certifications & Badges 
+  <span style="font-size: 0.6em; font-weight: normal; color: #8b949e; opacity: 0.85;">(Selected highlights — not my full list)</span>
+</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -69,6 +72,11 @@
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="85" alt="JavaScript Essentials" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/e33aea9e-157b-48e3-8858-1c931278b9e6/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="85" alt="Introduction to Linux" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
