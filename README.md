@@ -137,10 +137,6 @@
   <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg?v=2" width="100%">
 </picture>
 
-<!-- Profile Views Counter -->
-<p align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Panduputran&label=Profile+Views&color=39d353&style=flat-square" alt="Profile Views" />
-</p>
 
 <!-- 2. Contribution Activity Graph -->
 <p align="center" style="margin-top: 15px;">
@@ -151,3 +147,4 @@
 <p align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=panduputran&theme=transparent&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&timezone=Asia%2FJakarta" alt="GitHub streak stats" height="165">
 </p>
+
