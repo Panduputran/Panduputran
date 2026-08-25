@@ -137,7 +137,7 @@
   <source media="(prefers-color-scheme: light)" srcset="./profile-light.svg?v=2">
   <img alt="Pandu Putra GitHub Profile" src="./profile-dark.svg?v=2" width="100%">
 </picture>
-
+  
 <!-- 2. Contribution Activity Graph -->
 <p align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph">
