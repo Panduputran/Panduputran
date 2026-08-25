@@ -123,6 +123,11 @@
       </a>
     </td>
     <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/community/innovators/maps?u=panduputra" target="_blank">
+        <img src="./badges/gdg-maps.svg" width="85" alt="Google Maps Innovator" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
       <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
         <img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
       </a>
