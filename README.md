@@ -140,7 +140,7 @@
 
 <!-- 2. Contribution Activity Graph -->
 <p align="center" style="margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/panduputran/panduputran/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph">
 </p>
 
 <!-- 3. Streak Stats (GitHub Green Theme) -->
