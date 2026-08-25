@@ -72,11 +72,6 @@
       </a>
     </td>
     <td style="padding-right: 14px;">
-      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
-        <img src="./badges/juaragcp.webp" width="85" alt="#JuaraGCP" style="display: block;">
-      </a>
-    </td>
-    <td style="padding-right: 14px;">
       <a href="https://www.credly.com/badges/7cbfee23-735b-4901-be92-6f6a9ee28a9c/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/5b442afe-30bb-441f-a900-e78910db2116/blob" width="85" alt="Google Cloud Skills" style="display: block;">
       </a>
@@ -102,14 +97,9 @@
         <img src="./badges/gdg-program.svg" width="85" alt="Google Developer Program Member" style="display: block;">
       </a>
     </td>
-     <td style="padding-right: 14px;">
-      <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio?u=panduputra" target="_blank">
-        <img src="./badges/gdg-firebase.svg" width="85" alt="Firebase Studio" style="display: block;">
-      </a>
-    </td>
     <td style="padding-right: 14px;">
-      <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
-        <img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
+      <a href="https://developers.google.com/profile/badges/community/innovators/cloud/innovators_plus?u=panduputra" target="_blank">
+        <img src="./badges/gdg-premium.svg" width="85" alt="Google Cloud Innovators Plus" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
@@ -122,14 +112,34 @@
         <img src="./badges/gdg-member.svg" width="85" alt="Google Developer Group Member" style="display: block;">
       </a>
     </td>
-     <td style="padding-right: 14px;">
+    <td style="padding-right: 14px;">
       <a href="https://developers.google.com/profile/badges/nvidia-developer?u=panduputra" target="_blank">
         <img src="./badges/gdg-nvidia.svg" width="85" alt="NVIDIA Developer" style="display: block;">
       </a>
     </td>
+     <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
+        <img src="./badges/juaragcp.webp" width="70" alt="#JuaraGCP" style="display: block;">
+      </a>
+    </td>
     <td style="padding-right: 14px;">
-      <a href="https://developers.google.com/profile/badges/community/gear?u=panduputra" target="_blank">
-        <img src="./badges/gemini-enterprise.svg" width="85" alt="Gemini Enterprise Agent Ready" style="display: block;">
+      <a href="https://developers.google.com/profile/badges/events/community/build-with-gemini/track3-software-developer?u=panduputra" target="_blank">
+        <img src="./badges/bwg-appbuilder.png" width="70" alt="Build with Gemini Track 3" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/events/cloud/ai-agent-intensive-vibe-coding-tokyo?u=panduputra" target="_blank">
+        <img src="./badges/gc-itv.png" width="70" alt="AI Agent Intensive" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/community/firebasestudio/firebase-studio?u=panduputra" target="_blank">
+        <img src="./badges/gdg-firebase.svg" width="85" alt="Firebase Studio" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
+        <img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
       </a>
     </td>
   </tr>
