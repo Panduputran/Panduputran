@@ -88,7 +88,6 @@
     </td>
   </tr>
 </table>
-<h3 align="left">Google Developer Program</h3>
 
 <h3 align="left">Google Developer Program</h3>
 
