@@ -123,18 +123,12 @@
       </a>
     </td>
     <td style="padding-right: 14px;">
-      <a href="https://developers.google.com/profile/badges/community/innovators/maps?u=panduputra" target="_blank">
-        <img src="./badges/gdg-maps.svg" width="85" alt="Google Maps Innovator" style="display: block;">
-      </a>
-    </td>
-    <td style="padding-right: 14px;">
       <a href="https://developers.google.com/profile/badges/events/io/2026/registered?u=panduputra" target="_blank">
         <img src="./badges/gdg-io.svg" width="85" alt="Google I/O 2026 Registered" style="display: block;">
       </a>
     </td>
   </tr>
 </table>
----
 
 <!-- 1. Terminal / ASCII Profile Card -->
 <picture>
@@ -145,7 +139,7 @@
 
 <!-- 2. Contribution Activity Graph -->
 <p align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panduputran&bg_color=0D1117&color=39d353&line=39d353&point=ffffff&area=true&area_color=238636&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <!-- 3. Streak Stats (GitHub Green Theme) -->
