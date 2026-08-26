@@ -76,7 +76,7 @@
     </td>
     <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/5529423b-e221-45de-ab30-b84256d3ea97/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="75" alt="Python Essentials 1" style="display: block; margin: 0 auto;">
+        <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="85" alt="Python Essentials 1" style="display: block;">
       </a>
     </td>
     <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
@@ -101,7 +101,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding-right: 14px;">
+   <td align="center" style="padding-right: 14px;">
       <a href="https://www.credly.com/badges/59db0141-15b1-4fd3-b32a-2a8eb0f89187/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png" width="85" alt="IT Essentials: PC Hardware and Software" style="display: block; margin: 0 auto;">
       </a>
