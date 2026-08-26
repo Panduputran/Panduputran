@@ -107,8 +107,13 @@
       </a>
     </td>
     <td align="center" style="padding-right: 14px;">
-      <a href="https://www.credly.com/badges/15c276b8-a4c6-4563-a563-bb534d8678d3/public_url" target="_blank">
+      <a href="https://www.credly.com/badges/6490d4a9-499b-47b8-a6bf-b7e1869ffa2c/public_url" target="_blank">
         <img src="https://images.credly.com/size/220x220/images/a0232f56-64d0-4253-bc24-5b34c77c6727/image.png" width="85" alt="The Foundation Blueprints" style="display: block; margin: 0 auto;">
+      </a>
+    </td>
+    <td align="center" style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/15c276b8-a4c6-4563-a563-bb534d8678d3/public_url" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/507d90a0-49c9-4f64-8800-090732b47526/Strategic_Cybersecurity_Management_Badge.png" width="112" alt="The Foundation Blueprints" style="display: block; margin: 0 auto;">
       </a>
     </td>
   </tr>
