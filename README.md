@@ -59,7 +59,7 @@
 <!-- Certifications & Badges Section -->
 <h3 align="left">
   Certifications & Badges 
-  <span style="font-size: 0.6em; font-weight: normal; color: #8b949e; opacity: 0.85;">(Only 2.0 and 3.0 Open Badge)</span>
+  <span style="font-size: 0.6em; font-weight: normal; color: #8b949e; opacity: 0.85;">(Only Credly Compatible Badge)</span>
 </h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
