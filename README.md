@@ -64,44 +64,50 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/aa8f3efc-8d4a-4a33-ab34-43c251a1ae4c/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="85" alt="Introduction to Cybersecurity" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/users/pandu-putra-nurasih" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" width="85" alt="JavaScript Essentials" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/5529423b-e221-45de-ab30-b84256d3ea97/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="85" alt="Python Essentials 1" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/7cbfee23-735b-4901-be92-6f6a9ee28a9c/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/5b442afe-30bb-441f-a900-e78910db2116/blob" width="85" alt="Google Cloud Skills" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/547c4f72-f4e5-4ab1-bddc-325204e2709b/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/d41246ef-1f8e-4b3a-b93d-034e7c66e309/image.png" width="85" alt="Perform Data Analytics" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/22e9e17d-02c9-4d68-8dbc-e0ec968f9699/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/6d858d84-6987-48c8-9608-f5abb9b74492/blob" width="85" alt="Multimodal Search" style="display: block;">
       </a>
     </td>
-    <td style="padding-right: 14px;">
+    <td align="center" style="padding-right: 14px; padding-bottom: 14px;">
       <a href="https://www.credly.com/badges/e33aea9e-157b-48e3-8858-1c931278b9e6/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="85" alt="Introduction to Linux" style="display: block;">
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/59db0141-15b1-4fd3-b32a-2a8eb0f89187/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png" width="85" alt="IT Essentials: PC Hardware and Software" style="display: block; margin: 0 auto;">
+      </a>
+    </td>
+  </tr>
 </table>
-
 <h3 align="left">Google Developer Program</h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
