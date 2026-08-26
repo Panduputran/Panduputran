@@ -59,7 +59,7 @@
 <!-- Certifications & Badges Section -->
 <h3 align="left">
   Certifications & Badges 
-  <span style="font-size: 0.6em; font-weight: normal; color: #8b949e; opacity: 0.85;">(Selected highlights — not my full list)</span>
+  <span style="font-size: 0.6em; font-weight: normal; color: #8b949e; opacity: 0.85;">(This is not my full certification)</span>
 </h3>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -75,8 +75,8 @@
       </a>
     </td>
     <td style="padding-right: 14px;">
-      <a href="https://www.credly.com/badges/e33aea9e-157b-48e3-8858-1c931278b9e6/public_url" target="_blank">
-        <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="85" alt="Introduction to Linux" style="display: block;">
+      <a href="https://www.credly.com/badges/5529423b-e221-45de-ab30-b84256d3ea97/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="85" alt="Python Essentials 1" style="display: block;">
       </a>
     </td>
     <td style="padding-right: 14px;">
@@ -92,6 +92,11 @@
     <td style="padding-right: 14px;">
       <a href="https://www.credly.com/badges/22e9e17d-02c9-4d68-8dbc-e0ec968f9699/public_url" target="_blank">
         <img src="https://images.credly.com/size/680x680/images/6d858d84-6987-48c8-9608-f5abb9b74492/blob" width="85" alt="Multimodal Search" style="display: block;">
+      </a>
+    </td>
+    <td style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/e33aea9e-157b-48e3-8858-1c931278b9e6/public_url" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="85" alt="Introduction to Linux" style="display: block;">
       </a>
     </td>
   </tr>
