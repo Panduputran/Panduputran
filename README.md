@@ -106,6 +106,11 @@
         <img src="https://images.credly.com/size/680x680/images/eb4e49fc-4246-45bb-95dc-4bd55224f0da/image.png" width="85" alt="IT Essentials: PC Hardware and Software" style="display: block; margin: 0 auto;">
       </a>
     </td>
+    <td align="center" style="padding-right: 14px;">
+      <a href="https://www.credly.com/badges/15c276b8-a4c6-4563-a563-bb534d8678d3/public_url" target="_blank">
+        <img src="https://images.credly.com/size/220x220/images/a0232f56-64d0-4253-bc24-5b34c77c6727/image.png" width="85" alt="The Foundation Blueprints" style="display: block; margin: 0 auto;">
+      </a>
+    </td>
   </tr>
 </table>
 <h3 align="left">Google Developer Program</h3>
